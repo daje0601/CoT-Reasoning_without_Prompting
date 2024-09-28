@@ -1,6 +1,6 @@
 # CoT-Reasoning_without_Prompting
 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 Repo입니다. 
-paulosantosneto/unofficial-cot-decoding님이 일부 구현해놓으셨지만, 한국에서는 제대로 작동하지 않았습니다. 
+paulosantosneto/unofficial-cot-decoding님이 일부 구현해놓으셨지만, 한국어는 제대로 작동하지 않았습니다. 
 이에, paulosantosneto/unofficial-cot-decoding의 코드를 수정하여 한국어에서도 잘 작동하도록 코드를 보안해보았습니다. 
 
 ## 이 논문을 연구하게 된 계기 
